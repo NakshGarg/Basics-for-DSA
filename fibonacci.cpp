@@ -14,5 +14,4 @@ int main(){
         b=c;
     }
     return 0;
-
 }
