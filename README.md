@@ -1,4 +1,3 @@
-# C-Basics-
 A beginner-friendly repository covering C++ fundamentals up to loops.  
 📌 Topics Covered: 
 ✔️ C++ Setup (Compilers &amp; IDEs) 
