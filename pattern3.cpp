@@ -16,3 +16,12 @@ int main(){
     return 0;
 
 }
+
+// Enter how many rows and columns you want :- 7
+// 1 2 3 4 5 6 7 
+// 1 2 3 4 5 6 7 
+// 1 2 3 4 5 6 7 
+// 1 2 3 4 5 6 7 
+// 1 2 3 4 5 6 7 
+// 1 2 3 4 5 6 7 
+// 1 2 3 4 5 6 7 
